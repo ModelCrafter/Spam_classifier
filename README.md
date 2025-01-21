@@ -111,8 +111,7 @@ f1_score -> 0.96
 Feel free to fork the repository and submit pull requests for improvements or bug fixes.
 
 ## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the Apache License 2.0. See the `LICENSE` file for details.
 
 
 ## Developer
